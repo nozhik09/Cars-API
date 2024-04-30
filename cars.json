@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Mazda 3",
+        "color": "Broun",
+        "country": "Japan",
+        "image": "https://cdn3.riastatic.com/photosnew/auto/photo/mazda_3__546972165fx.jpg",
+        "type": "Sedan"
+    },
+    {
+        "name": "Mercedes GLC 240",
+        "color": "White",
+        "country": "Germany",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mercedes-Benz_X254_1X7A6345.jpg",
+        "type": "Crossover"
+    },
+    {
+        "name": "BMW M5",
+        "color": "White",
+        "country": "Germany",
+        "image": "https://kolesa-uploads.ru/r/880x/47b05797-6023-4124-a98e-fa29f0a49974/bmw-m5-rest-front2.jpg",
+        "type": "Sedan"
+    },
+    {
+        "name": "AUDI SQ 5",
+        "color": "Green",
+        "country": "Germany",
+        "image": "https://images.prismic.io/carwow/9ae91c2c-5222-48ae-bcb1-d96ba283461a_LHD+Audi+SQ5+2020+Exterior+7.jpg",
+        "type": "Crossover"
+    }
+]
